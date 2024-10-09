@@ -8,9 +8,13 @@ I'm a passionate Full-Stack Developer with a focus on React, Vue, and Laravel. C
 Let's connect and build something great together!
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-e3342f?style=flat-square&logo=laravel&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61dafb?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
   <br>
 
 ### GitHub Statistics
