@@ -16,8 +16,8 @@ Let's connect and build something great together!
 ### GitHub Statistics
 <p align="left">
 <a href="https://github.com/oscode04">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizanurmaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizanurmaulana&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oscode04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscode04&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
